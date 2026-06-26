@@ -336,7 +336,6 @@ ul {
     letter-spacing: -2px;
 }
 
-/* SWAP: Uncomment and use when you have a profile photo:
 .avatar-placeholder {
     overflow: hidden;
 }
@@ -348,7 +347,6 @@ ul {
 .avatar-placeholder span {
     display: none;
 }
-*/
 
 .hero-orb {
     position: absolute;
